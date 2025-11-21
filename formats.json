@@ -1,0 +1,21 @@
+[
+    {
+        "data": [
+            { "TorchScript": "torchscript" },
+            { "ONNX": "onnx" },
+            { "OpenVINO": "openvino" },
+            { "TensorRT": "engine" },
+            { "CoreML": "coreml" },
+            { "TF SavedModel": "saved_model" },
+            { "TF Lite": "tflite" },
+            { "TF Edge TPU": "edgetpu" },
+            { "TF.js": "tfjs" },
+            { "PaddlePaddle": "paddle" },
+            { "MNN": "mnn" },
+            { "NCNN": "ncnn" },
+            { "IMX500": "imx" },
+            { "RKNN": "rknn" },
+            { "ExecuTorch": "executorch" }
+        ]
+    }
+]
